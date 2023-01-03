@@ -254,6 +254,12 @@ text-align: center;
 .team-link-icons {
   
     display: flex;
+    gap: 24px;
+    justify-content: center;
+    padding-bottom: 36px;
+}
+.team-soc-icons {
+     display: flex;
     gap: 16px;
     justify-content: center;
     padding-bottom: 36px;
@@ -279,6 +285,10 @@ text-align: center;
     background-color: #404BBF;
 }
  .svg-ivons {
+    width: 16px;
+    height: 16px;
+ }
+ .svg-ivons-footer {
     width: 24px;
     height: 24px;
  }
